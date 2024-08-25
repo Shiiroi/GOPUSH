@@ -3,15 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-
     <title>Unity WebGL Player | Go Push</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
-      <canvas id="unity-canvas" width=1080 height=1920 tabindex="-1"></canvas>
+      <canvas id="unity-canvas" width=360 height=640 tabindex="-1"></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
         <div id="unity-progress-bar-empty">
@@ -59,11 +57,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/GoPush-Itch.io.loader.js";
+      var loaderUrl = buildUrl + "/9edd899bc6b6e0bbc4f46ff33ca0bba6.loader.js";
       var config = {
-        dataUrl: buildUrl + "/81c9a6777e9c0a06cbaf5ca7f95856f8.data",
-        frameworkUrl: buildUrl + "/e7c1b2a31e1c655b2ee6401f7349ea3d.js",
-        codeUrl: buildUrl + "/5588dcbbce5be43b12e1921ea8f9fe58.wasm",
+        dataUrl: buildUrl + "/f3e7ca77e87266209ff96af50e058c2c.data",
+        frameworkUrl: buildUrl + "/afa38edbc3f5a7474b14c9bf626cacae.framework.js",
+        codeUrl: buildUrl + "/5ed419142a46720cf61720e480a06320.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "ShhIndie",
         productName: "Go Push",
@@ -96,8 +94,8 @@
       } else {
         // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
 
-        canvas.style.width = "1080px";
-        canvas.style.height = "1920px";
+        canvas.style.width = "360px";
+        canvas.style.height = "640px";
       }
 
       loadingBar.style.display = "block";
