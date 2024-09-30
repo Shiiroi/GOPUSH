@@ -3,7 +3,7 @@ GoPush is a 2D casual game developed with Unity. The objective is simple: use th
 
 ## Play the Game
 
-You can play **GoPush** online at: [GoPush on Itch.io](https://shhiroi.itch.io/gopsuh)
+You can play **GoPush** online at: [GoPush on Itch.io](https://shhiroi.itch.io/gopush)
 
 > **Note:** If you experience issues with the game's zoom level, try minimizing the zoom of your webpage for optimal gameplay.
 
@@ -21,7 +21,7 @@ You can play **GoPush** online at: [GoPush on Itch.io](https://shhiroi.itch.io/g
 
 ## Installation
 
-To play **GoPush**, simply visit the [Itch.io page](https://shhiroi.itch.io/gopsuh) and install!
+To play **GoPush**, simply visit the [Itch.io page](https://shhiroi.itch.io/gopush) and install!
 
 ## Contact
 
