@@ -1,5 +1,4 @@
 # GoPush
-
 **GoPush** is a 2D casual game developed with Unity. The objective is simple: use the unique mechanic of characters moving away from your click or touch to navigate through obstacles and survive!
 
 ## Play the Game
